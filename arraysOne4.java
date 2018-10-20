@@ -29,6 +29,6 @@ public class arraysOne4{
         arraysOne4 oneD = new arraysOne4();
 
         int x[] = {0,1,2,3,4,5,6,7,8,9,10};
-        oneD.puzzle_DD34(x);
+        oneD.puzzle_DD31(x);
     }
 }

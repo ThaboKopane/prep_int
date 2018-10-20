@@ -2,6 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - recurse",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "recurse",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - pairs",
             "request": "launch",
             "cwd": "${workspaceFolder}",

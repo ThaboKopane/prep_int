@@ -3,26 +3,21 @@ import java.util.Scanner;
 
 public class Path{
 
-    public int Path(int grid, int obs, int[][] obstacles){
-        int what = -1;
-        int[] subproblems = new int[grid];
-        if(grid <= 2 && obs>0)
-            what = 0;
-        else if(grid<=2)
-            what = grid;
-        else{
-            what = grid;
-        }
+    public int Pathing(int x, int y,int obs, int[][] obstacles){
         
-
-        return what;
-       
+        /*if(n==0) return 0;
+        else if(n==obs) return 0;
+        else{
+            return 
+        } */
+        return 0;      
     }
     public static void main(String[] args){
         Path tsela = new Path();
         Scanner scan = new Scanner(System.in);
 
         int N= Integer.parseInt(scan.nextLine());
+        int m = Integer.valueOf(N);
         int nObz = Integer.parseInt(scan.nextLine());
         int[][] locations = new int[nObz][2];
 
@@ -32,7 +27,8 @@ public class Path{
             locations[i] = Arrays.stream(arr).mapToInt(Integer::parseInt).toArray();
         }
 
-        System.out.println(Arrays.deepToString(locations));
+
+        System.out.println(m+" "+nObz+" "+tsela.Pathing(N, m, nObz, locations));
 
     }
 } 

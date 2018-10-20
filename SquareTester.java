@@ -12,7 +12,7 @@ class SquareCalc{
 
         for(row=0; row<n; row++ ){
             for(col=0; col<n; col++)
-                System.out.printf("*");
+                System.out.printf(row+"*"+col+" ");
             System.out.printf("\n");
         }
     }
@@ -21,10 +21,10 @@ class SquareCalc{
 public class SquareTester{
     public static void main(String[] args){
         SquareCalc sqc = new SquareCalc();
-        int result = sqc.Square(4);
+        //int result = sqc.Square(4);
 
-        System.out.printf("The result is %d\n", result);
-        sqc.square(4);
+        //System.out.printf("The result is %d\n", result);
+        sqc.square(5);
 
     }
 }

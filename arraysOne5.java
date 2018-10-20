@@ -7,7 +7,7 @@ public class arraysOne5{
 
         for(int i=0; i<arrlength/2; i++)
             swapped[i] = arr[arrlength-i-1];
-        for(int j=arrlength/2+1; j<arrlength; j++)
+        for(int j=arrlength/2 ; j<arrlength; j++)
             swapped[j] =arr[arrlength-j-1];
 
         System.out.println("old: "+Arrays.toString(arr));
