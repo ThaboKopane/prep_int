@@ -1,0 +1,31 @@
+1. What is a linkedlist? - A linear data structure where each element is a separate object, A linked lis
+    is a dynamic data structure because the number of nodes is not fixed . (doubly linkedlist, a circular linked list)
+
+2. What is cloud computing. - The delivery of computing services - servers, storage, databases, networking
+    software and more over the internet. IaaS, PaaS, SaaS, serverless
+    Infrastructure as a service
+    Platform as a service
+    serverless
+    Software as a service
+
+3. What is your favourite hardware product? - A pentel pen, it was smooth in writing, it had a proper gripo,
+     and when I was writing with it, I felt as though my handwriting was improving - (also girls seem to like it)
+
+     CONS: - It's made of plastic materials, the ink is not refillable, and if exposed to too much heat, it
+     doesn't return to normal form.
+4. What is your favourite software product? - stackoverflow, I like the execution of stakc overflow,
+    people helping each other on coding problems. Most of the answers are there, I don't know which came first
+    but there's a whole world of Q's and A's on stackoverflow and related sites
+    CONS: it ahas become very toxic to new users, with questions being frequently flagged duplicate
+    or that old users belittle newbies (it's more elitist, but I find COmputer science would be harder and
+    slower).
+
+5. What have you bought recently that you like a lot.
+    - I bought an iphone SE moving from my dead Oneplus 3T. I had a friend borrow me an iphone 6plus 
+    to run with it whilst i was still looking for a phone. It was big, couldn't fit inn my pocket, the
+    screen was great for gaming, youtube videos and a lot (the more screen, the more time you spend wiht your
+    phone).
+    I wanted a running phone, the iphone se was the perfect candidate, and thus I bought it.
+    It's abit slower compared to my one plus 3t, it often takes forever to respond to touches and ios 12
+    is not really doing well for the iphone se becauase of the  aggressive ram management.
+6. 

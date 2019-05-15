@@ -113,6 +113,6 @@ public class loops_l3{
     }
     public static void main(String[] args){
         loops_l3 lup = new loops_l3();
-        lup.puzzle_26();
+        lup.puzzle_25();
     }
 }

@@ -151,6 +151,6 @@ public class loops_l2{
     public static void main(String[] args){
         loops_l2 lup = new loops_l2();
         System.out.println("wait");
-        lup.puzzle_16();
+        lup.puzzle_20();
     }
 }
